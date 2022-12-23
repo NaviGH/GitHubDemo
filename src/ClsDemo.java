@@ -10,12 +10,7 @@ public class ClsDemo {
 		driver.get("https://google.com");
 		System.out.println("new line 1");
 		System.out.println("new line 2");
-		System.out.println("new line 1");
-		System.out.println("new line 2");
-		System.out.println("new line 1");
-		System.out.println("new line 2");
-		System.out.println("new line 1");
-		System.out.println("new line 2");
+		
 		
 	}
 
