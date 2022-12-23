@@ -8,6 +8,8 @@ public class ClsDemo {
 
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://google.com");
+		System.out.println("new line 1");
+		System.out.println("new line 2");
 	}
 
 }
